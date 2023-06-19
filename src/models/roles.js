@@ -1,0 +1,3 @@
+exports = {
+  roles: ["admin", "user"],
+};
