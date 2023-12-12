@@ -1,3 +1,6 @@
 exports = {
-  roles: ["admin", "user"],
+  roles: {
+    "admin":"admin",
+    "user":"user"
+  },
 };
